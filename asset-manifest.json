@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/E-com-Adv-Filtering/static/css/main.22584bca.css",
+    "main.js": "/E-com-Adv-Filtering/static/js/main.f6680624.js",
+    "index.html": "/E-com-Adv-Filtering/index.html",
+    "main.22584bca.css.map": "/E-com-Adv-Filtering/static/css/main.22584bca.css.map",
+    "main.f6680624.js.map": "/E-com-Adv-Filtering/static/js/main.f6680624.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.22584bca.css",
+    "static/js/main.f6680624.js"
+  ]
+}
